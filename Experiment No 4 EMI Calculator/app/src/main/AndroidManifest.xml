@@ -6,9 +6,9 @@
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
-        android:icon="@mipmap/icon"
-        android:label="AYAZ'S  EMI CALCULATOR "
-        android:roundIcon="@mipmap/icon"
+        android:icon="@mipmap/emi"
+        android:label="swati pandey EMI CALCULATOR "
+        android:roundIcon="@mipmap/emi"
         android:supportsRtl="true"
         android:theme="@style/Theme.depositInterest"
         tools:targetApi="31">

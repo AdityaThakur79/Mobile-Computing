@@ -56,7 +56,7 @@
         android:installLocation="internalOnly"
         android:networkSecurityConfig="@xml/network_security_config"
         android:icon="@drawable/gpsss"
-        android:label="FAISAL KHAN GPS Logger"
+        android:label="ranjit GPS Logger"
         android:theme="@style/LaunchScreenTheme"
         android:supportsRtl="true">
 

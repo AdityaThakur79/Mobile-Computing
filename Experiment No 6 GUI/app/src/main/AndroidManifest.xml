@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme">
         <activity android:name=".Settings"
             android:configChanges="keyboardHidden|orientation|screenSize"
-            android:label="khan Ayaz"
+            android:label="NITESH YADAV"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar"></activity>
         <activity
